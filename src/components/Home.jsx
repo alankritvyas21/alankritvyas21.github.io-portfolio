@@ -67,7 +67,7 @@ const Home = () => {
             <div className="home__data">
               <h1 className="home__title">Alankrit Vyas</h1>
               <h3 className="home__subtitle">
-                Web Developer and UI/UX Designer
+                MERN Stack Developer
               </h3>
               <p className="home__description">
                 Currently pursuing Computer and Communication Engineering at
